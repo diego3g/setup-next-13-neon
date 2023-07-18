@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689720249157,
+      "tag": "0000_lush_earthquake",
+      "breakpoints": true
+    }
+  ]
+}
